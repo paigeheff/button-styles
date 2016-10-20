@@ -100,6 +100,10 @@ div {
   font-size: .875rem;
 }
 
+.btn-subtle-small a:hover {
+  background-color: #666
+}
+
 .btn-ghost-small {
   background-color:#fff;
   display: inline-block;
@@ -112,6 +116,10 @@ div {
   font-size: .875rem;
 }
 
+.btn-ghost-small a:hover {
+  background-color: #666;
+}
+
 .btn-warning-small {
   background-color: #f33;
   display: inline-block;
@@ -122,6 +130,10 @@ div {
   text-decoration: none;
   border-color: #000;
   font-size: .875rem;
+}
+
+.btn-warning-small a:hover {
+  background-color: #933;
 }
 
 .btn-big {
@@ -150,6 +162,10 @@ div {
   font-size: 1.5rem;
 }
 
+.btn-subtle-big a:hover {
+  background-color: #666
+}
+
 .btn-ghost-big {
   background-color:#fff;
   display: inline-block;
@@ -162,6 +178,10 @@ div {
   font-size: 1.5rem;
 }
 
+.btn-ghost-big a:hover {
+  background-color: #666;
+}
+
 .btn-warning-big {
   background-color: #f33;
   display: inline-block;
@@ -172,4 +192,8 @@ div {
   text-decoration: none;
   border-color: #000;
   font-size: 1.5rem;
+}
+
+.btn-warning-big a:hover {
+  background-color: #933;
 }
