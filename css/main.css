@@ -20,6 +20,7 @@ div {
   border width: 3px;
   padding: .4em .75em .3em;
   text-decoration: none;
+  font-size: 1.125rem;
 }
 
 .btn-subtle {
@@ -30,6 +31,7 @@ div {
   border width: 3px;
   padding: .4em .75em .3em;
   text-decoration: none;
+  font-size: 1.125rem;
 }
 
 .btn-ghost {
@@ -41,10 +43,11 @@ div {
   padding: .4em .75em .3em;
   text-decoration: none;
   border-color: #000;
+  font-size: 1.125rem;
 }
 
 .btn-warning {
-  background-color:#fff;
+  background-color: #f33;
   display: inline-block;
   color: #000;
   border-radius: 8px;
@@ -52,9 +55,10 @@ div {
   padding: .4em .75em .3em;
   text-decoration: none;
   border-color: #000;
+  font-size: 1.125rem;
 }
 
-.btn {
+.btn-small {
   background-color:#000;
   display: inline-block;
   color: #fff;
@@ -62,9 +66,10 @@ div {
   border width: 3px;
   padding: .4em .75em .3em;
   text-decoration: none;
+  font-size: .875rem;
 }
 
-.btn-subtle {
+.btn-subtle-small {
   background-color: #ccc;
   display: inline-block;
   color: #fff;
@@ -72,9 +77,10 @@ div {
   border width: 3px;
   padding: .4em .75em .3em;
   text-decoration: none;
+  font-size: .875rem;
 }
 
-.btn-ghost {
+.btn-ghost-small {
   background-color:#fff;
   display: inline-block;
   color: #000;
@@ -83,4 +89,63 @@ div {
   padding: .4em .75em .3em;
   text-decoration: none;
   border-color: #000;
+  font-size: .875rem;
+}
+
+.btn-warning-small {
+  background-color: #f33;
+  display: inline-block;
+  color: #000;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+  border-color: #000;
+  font-size: .875rem;
+}
+
+.btn-big {
+  background-color:#000;
+  display: inline-block;
+  color: #fff;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.btn-subtle-big {
+  background-color: #ccc;
+  display: inline-block;
+  color: #fff;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.btn-ghost-big {
+  background-color:#fff;
+  display: inline-block;
+  color: #000;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+  border-color: #000;
+  font-size: 1.5rem;
+}
+
+.btn-warning-big {
+  background-color: #f33;
+  display: inline-block;
+  color: #000;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+  border-color: #000;
+  font-size: 1.5rem;
 }
