@@ -12,6 +12,17 @@ div {
   text-align: center;
 }
 
+div a {
+  background-color: #333;
+  display: inline-block;
+  color: #fff;
+  border-radius: 8px;
+  border-width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+  font-size: 1.125rem;
+}
+
 .btn {
   background-color: #333;
   display: inline-block;
@@ -29,12 +40,7 @@ div {
 
 .btn-subtle {
   background-color: #ccc;
-  display: inline-block;
   color: #fff;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   font-size: 1.125rem;
 }
 
@@ -44,14 +50,13 @@ div {
 
 .btn-ghost {
   background-color: #fff;
-  display: inline-block;
   color: #000;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   border-color: #000;
   font-size: 1.125rem;
+  border-style: solid;
+  border-width: medium;
+  padding: inherit;
+  border-radius: 8px;
 }
 
 .btn-ghost:hover {
@@ -60,12 +65,7 @@ div {
 
 .btn-warning {
   background-color: #f33;
-  display: inline-block;
   color: #fff;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   border-color: #000;
   font-size: 1.125rem;
 }
@@ -75,13 +75,6 @@ div {
 }
 
 .btn-small {
-  background-color: #333;
-  display: inline-block;
-  color: #fff;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   font-size: .875rem;
 }
 
@@ -91,12 +84,7 @@ div {
 
 .btn-subtle-small {
   background-color: #ccc;
-  display: inline-block;
   color: #fff;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   font-size: .875rem;
 }
 
@@ -106,12 +94,7 @@ div {
 
 .btn-ghost-small {
   background-color: #fff;
-  display: inline-block;
   color: #000;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   border-color: #000;
   font-size: .875rem;
 }
@@ -122,12 +105,7 @@ div {
 
 .btn-warning-small {
   background-color: #f33;
-  display: inline-block;
   color: #fff;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   border-color: #000;
   font-size: .875rem;
 }
@@ -137,13 +115,6 @@ div {
 }
 
 .btn-big {
-  background-color: #333;
-  display: inline-block;
-  color: #fff;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   font-size: 1.5rem;
 }
 
@@ -153,12 +124,7 @@ div {
 
 .btn-subtle-big {
   background-color: #ccc;
-  display: inline-block;
   color: #fff;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   font-size: 1.5rem;
 }
 
@@ -168,12 +134,7 @@ div {
 
 .btn-ghost-big {
   background-color: #fff;
-  display: inline-block;
   color: #000;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   border-color: #000;
   font-size: 1.5rem;
 }
@@ -184,20 +145,11 @@ div {
 
 .btn-warning-big {
   background-color: #f33;
-  display: inline-block;
   color: #fff;
-  border-radius: 8px;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
   border-color: #000;
   font-size: 1.5rem;
 }
 
 .btn-warning-big:hover {
   background-color: #933;
-}
-
-main {
-  padding: 3em;
 }
