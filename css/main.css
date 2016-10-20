@@ -11,3 +11,76 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  background-color:#000;
+  display: inline-block;
+  color: #fff;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+  display: inline-block;
+  color: #fff;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+}
+
+.btn-ghost {
+  background-color:#fff;
+  display: inline-block;
+  color: #000;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+  border-color: #000;
+}
+
+.btn-warning {
+  background-color:#fff;
+  display: inline-block;
+  color: #000;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+  border-color: #000;
+}
+
+.btn {
+  background-color:#000;
+  display: inline-block;
+  color: #fff;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+  display: inline-block;
+  color: #fff;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+}
+
+.btn-ghost {
+  background-color:#fff;
+  display: inline-block;
+  color: #000;
+  border-radius: 8px;
+  border width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+  border-color: #000;
+}
