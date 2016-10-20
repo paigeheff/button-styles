@@ -53,10 +53,7 @@ div a {
   color: #000;
   border-color: #000;
   font-size: 1.125rem;
-  border-style: solid;
-  border-width: medium;
-  padding: inherit;
-  border-radius: 8px;
+
 }
 
 .btn-ghost:hover {
