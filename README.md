@@ -19,7 +19,7 @@ deliverables: "1 HTML file, 1 CSS file"
 ## Details
 
 - *Text sizes:* `1.125rem`, `.875rem`, `1.5rem`
-- *Colours:* `#fff`, `#000`, `#333`, `#666`, `#ccc`, `#f33`, `#933`
+- *Colours:* `#fff` white, `#000`black, `#333`dark gray, `#666`light grey, `#ccc`lightest grey, `#f33`bright red, `#933`dark red
 - *Button padding:* `.4em .75em .3em`
 - *Button corner radius:* `8px`
 - *Button border width:* `3px`
@@ -32,7 +32,7 @@ deliverables: "1 HTML file, 1 CSS file"
 Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
 
 - Final screenshots in the “screenshots” folder.
-- [**Watch this video to see how it interacts.**](https://youtu.be/l0SGDDgRIII)
+- [**Watch this video to see how it interacts.**](httpfs://youtu.be/l0SGDDgRIII)
 
 ---
 
